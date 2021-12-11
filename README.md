@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahedShahzadNasir
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Java language
 - 📫 FB profile https://www.facebook.com/mahedshahzad
 
 <!---
